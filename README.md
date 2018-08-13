@@ -1,5 +1,5 @@
 # MATLAB-Noise-Reduction-by-wiener-filter
-Noise cancellation, cancellation
+Noise cancellation, suppression
 
 Demo video: https://youtu.be/ATnP3c-NANI
 
