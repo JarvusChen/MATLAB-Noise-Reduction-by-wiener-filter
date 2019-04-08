@@ -1,10 +1,12 @@
 # MATLAB-Noise-Reduction-by-wiener-filter
-Noise cancellation, suppression
+Noise cancellation, suppression, Speech enhencement
 
-Demo video: https://youtu.be/ATnP3c-NANI
+### You can run this function by only p code!
 
-### You can run this code by only p code
-Full code for advanced cases:
-- Donate USD 30 ( TWD 900 )
-- Will provide m file and its manual
-- http://jarvus.dragonbeef.net/donate.php
+#### Demo video
+https://youtu.be/ATnP3c-NANI
+
+#### Introduction & M file
+https://medium.com/audio-processing-by-matlab/noise-reduction-by-wiener-filter-by-matlab-44438af83f96
+#### Tutorial & Contact Jarvus
+https://medium.com/audio-processing-by-matlab
